@@ -4127,7 +4127,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ข้าวต้มปลา",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "125",
@@ -4160,7 +4160,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ซุปเปอร์ขาไก่",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "126",
@@ -4193,7 +4193,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ซุปไก่ใส่เห็ดหอม",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "127",
@@ -4226,7 +4226,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ซี่โครงหมูตุ๋นมะระ",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "128",
@@ -4259,7 +4259,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มจืดวุ้นเส้น",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "129",
@@ -4292,7 +4292,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มจืดเต้าหู้หมูสับ",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "130",
@@ -4325,7 +4325,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มส้มปลาทู",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "131",
@@ -4358,7 +4358,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มโคล้งปลากรอบ",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "132",
@@ -4391,7 +4391,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ถั่วลันเตาผัดหมูสับ",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "133",
@@ -4424,7 +4424,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=น้ำพริกปลาทู",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "134",
@@ -4457,7 +4457,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=น้ำพริกตาแดง",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "135",
@@ -4490,7 +4490,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ปลาทูต้มมะดัน",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "136",
@@ -4523,7 +4523,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=วุ้นเส้นหมูสับน้ำซุป",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "137",
@@ -4556,7 +4556,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ส้มตำไข่เค็ม",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "138",
@@ -4589,7 +4589,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ผัดวุ้นเส้น",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "139",
@@ -4622,7 +4622,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=บวบผัดกุ้ง",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "140",
@@ -4655,7 +4655,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ผัดเปรี้ยวหวาน",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "141",
@@ -4688,7 +4688,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ฟองเต้าหู้ผัดน้ำมันหอย",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "142",
@@ -4721,7 +4721,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ชะแลงผัดน้ำมันหอย",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "143",
@@ -4754,7 +4754,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หอยลายผัดน้ำพริกเผา",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "144",
@@ -4787,7 +4787,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หอยนางรมทรงเครื่อง",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "145",
@@ -4820,7 +4820,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หัวปลาต้มเผือก",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "146",
@@ -4853,7 +4853,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หน่อไม้ดองต้มกะทิ",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "147",
@@ -4886,7 +4886,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ถั่วฝักยาวผัดพริกแกงหมู",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "148",
@@ -4919,7 +4919,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ดุกฟูผัดพริกขิง",
-    "diet_type": "เจ"
+    "diet_type": "อาหารเจ"
   },
   {
     "id": "149",
@@ -4952,7 +4952,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ข้าวต้มปลา",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "150",
@@ -4985,7 +4985,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ชะแลงผัดน้ำมันหอย",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "151",
@@ -5018,7 +5018,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ซี่โครงหมูตุ๋นมะระ",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "152",
@@ -5051,7 +5051,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ซุปไก่ใส่เห็ดหอม",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "153",
@@ -5084,7 +5084,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ซุปเปอร์ขาไก่",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "154",
@@ -5117,7 +5117,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ดุกฟูผัดพริกขิง",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "155",
@@ -5150,7 +5150,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มโคล้งปลากรอบ",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "156",
@@ -5183,7 +5183,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มจืดเต้าหู้หมูสับ",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "157",
@@ -5216,7 +5216,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มจืดวุ้นเส้น",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "158",
@@ -5249,7 +5249,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ต้มส้มปลาทู",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "159",
@@ -5282,7 +5282,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ถั่วฝักยาวผัดพริกแกงหมู",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "160",
@@ -5315,7 +5315,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ถั่วลันเตาผัดหมูสับ",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "161",
@@ -5348,7 +5348,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=น้ำพริกตาแดง",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "162",
@@ -5381,7 +5381,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=น้ำพริกปลาทู",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "163",
@@ -5414,7 +5414,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=บวบผัดกุ้ง",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "164",
@@ -5447,7 +5447,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ปลาทูต้มมะดัน",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "165",
@@ -5480,7 +5480,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ผัดเปรี้ยวหวาน",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "166",
@@ -5513,7 +5513,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ผัดวุ้นเส้น",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "167",
@@ -5546,7 +5546,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ฟองเต้าหู้ผัดน้ำมันหอย",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "168",
@@ -5579,7 +5579,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=วุ้นเส้นหมูสับน้ำซุป",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "169",
@@ -5612,7 +5612,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=ส้มตำไข่เค็ม",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "170",
@@ -5645,7 +5645,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หน่อไม้ดองต้มกะทิ",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "171",
@@ -5678,7 +5678,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หอยนางรมทรงเครื่อง",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "172",
@@ -5711,7 +5711,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หอยลายผัดน้ำพริกเผา",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "173",
@@ -5744,7 +5744,7 @@ const mockRecipes: Recipe[] =
       "จัดจานเสิร์ฟ"
     ],
     "videoUrl": "https://www.youtube.com/results?search_query=หัวปลาต้มเผือก",
-    "diet_type": "คลีน"
+    "diet_type": "อาหารคลีน"
   },
   {
     "id": "174",
